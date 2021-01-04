@@ -1,0 +1,10 @@
+C:\Users\maper\source\repos\nicer\nicer\bin\Debug\nicer.exe.config
+C:\Users\maper\source\repos\nicer\nicer\bin\Debug\nicer.exe
+C:\Users\maper\source\repos\nicer\nicer\bin\Debug\nicer.pdb
+C:\Users\maper\source\repos\nicer\nicer\obj\Debug\nicer.csprojAssemblyReference.cache
+C:\Users\maper\source\repos\nicer\nicer\obj\Debug\nicer.Form1.resources
+C:\Users\maper\source\repos\nicer\nicer\obj\Debug\nicer.Properties.Resources.resources
+C:\Users\maper\source\repos\nicer\nicer\obj\Debug\nicer.csproj.GenerateResource.cache
+C:\Users\maper\source\repos\nicer\nicer\obj\Debug\nicer.csproj.CoreCompileInputs.cache
+C:\Users\maper\source\repos\nicer\nicer\obj\Debug\nicer.exe
+C:\Users\maper\source\repos\nicer\nicer\obj\Debug\nicer.pdb
